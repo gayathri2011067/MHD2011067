@@ -1,7 +1,7 @@
 # P464 REPOSIT0RY
 
 
-## Current status: GIVE UP
+## Current status: *FINISHED*
 <span style="color:teal" > *This contains my codes, results, and website-HTML of the magnetohydrodynamics term paper about mean field galactic dynamos.*</span>
 ### About the project: 
 
